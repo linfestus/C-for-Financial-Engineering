@@ -1,6 +1,5 @@
 //
 //  SimplePropertySet.cpp
-//  Finance
 //
 //  Created by Bikramjeet Singh on 6/12/18.
 //  Copyright © 2018 Bikramjeet Singh. All rights reserved.
